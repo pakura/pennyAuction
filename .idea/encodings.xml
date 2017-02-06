@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/application/controllers/Main.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/language/georgian/faq_lang.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/language/georgian/form_validation_lang.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/language/georgian/profile_lang.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/admin/add_product.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/admin/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/admin/menu.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/content/auction.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/content/contact.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/content/faq.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/content/items.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/profile/auction_list.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/profile/help.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/profile/info.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/views/profile/profile_update.php" charset="UTF-8" />
+  </component>
+</project>

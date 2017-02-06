@@ -1,0 +1,37 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['profile_generalInfo'] = 'ზოგადი ინფორმაცია';
+$lang['profile_buyBids'] = 'იყიდე ბიდები';
+$lang['profile_purchaseHistory'] = 'შესყიდვების ისტორია';
+$lang['profile_winAuction'] = 'მოგებული აუქციონები';
+$lang['profile_personalDetail'] = 'პერსონალური დეტალები';
+$lang['profile_help'] = 'დახმარბა';
+$lang['profile_username'] = 'ნიკნეიმი:';
+$lang['profile_pass'] = 'პაროლი:';
+$lang['profile_sex'] = 'სქესი:';
+$lang['profile_male'] = 'მამრ.';
+$lang['profile_female'] = 'მდედრ.';
+$lang['profile_name'] = 'სახელი:';
+$lang['profile_firstname'] = 'გვარი:';
+$lang['profile_city'] = 'ქალაქი/რაიონი:';
+$lang['profile_address'] = 'მისამართი:';
+$lang['profile_birthday'] = 'დაბადების თარიღი:';
+$lang['profile_email'] = 'ელ-ფოსტა';
+$lang['profile_phone'] = 'ტელ.ნომერი';
+$lang['profile_change'] = 'რედაქტირება';
+$lang['profile_edit'] = 'პროფილის რედაქტირება';
+$lang['profile_currentPass'] = 'მიმდინარე პაროლი';
+$lang['profile_newPass'] = 'ახალი პაროლი';
+$lang['profile_repass'] = 'გაიმეორეთ პაროლი';
+$lang['profile_buy'] = 'ყიდვა';
+$lang['profile_liveauction'] = 'მიმდინარე აუქციონები';
+$lang['profile_winauction'] = 'მოგებული აუქციონები';
+$lang['profile_send'] = 'გაგზავნა';
+$lang['profile_cancel'] = 'გაუქმება';
+$lang['profile_avatar'] = 'ავატარი';
+$lang['profile_choose'] = 'არჩევა';
+$lang['profile_history'] = 'ისტორია';
+$lang['profile_personalID'] = 'პირადი ნომერი';
+$lang['profile_save'] = 'დამახსოვრება';
+$lang['profile_regsuc'] = 'თქვენ წარმატებით დარეგისტრირდით საიტზე';
